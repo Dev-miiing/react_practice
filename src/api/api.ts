@@ -8,4 +8,5 @@ export const Notice = {
   getSave: "/board/noticeSaveBody.do",
   getUpdate: "/board/noticeUpdateBody.do",
   getDelete: "/board/noticeDeleteBody.do",
+  getListBody: "/board/noticeListBody.do",
 };
